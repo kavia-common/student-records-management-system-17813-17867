@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && uvicorn src.api.main:app --host <host> --port <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/student-records-management-system-17813-17867/student_management_backend"
+}
